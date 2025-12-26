@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 # Status
-![Seosung-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seosung-Dev&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seosungdev)](https://solved.ac/seosungdev/)  
 
 # About me
