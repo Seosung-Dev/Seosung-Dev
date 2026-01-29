@@ -1,6 +1,6 @@
 ## 소성(小星)으로서 더 크고 더 빛날 수 있도록
 
-# Language & Library & Framework
+# Language & Framework
 ![Python](https://img.shields.io/badge/Python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
