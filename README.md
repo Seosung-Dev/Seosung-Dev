@@ -17,3 +17,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seosungdev)](https://solved.ac/seosungdev/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seosung-Dev)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seosung-Dev)](https://github.com/anuraghazra/github-readme-stats)
+<br>모바일에서 보는거라그런가 왜 이거 고장남
