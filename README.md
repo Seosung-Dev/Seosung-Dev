@@ -18,5 +18,5 @@
 
 # Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seosungdev)](https://solved.ac/seosungdev/)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seosung-Dev&layout=compact&cache_seconds=86400)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seosung-Dev&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seosung-Dev&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seosung-Dev&show_icons=true&count_private=true&include_all_commits=true)
