@@ -1,11 +1,135 @@
 ## 소성(小星)으로서 더 크고 더 빛날 수 있도록
-# Skills
-![Python](https://img.shields.io/badge/Python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)![HTML](https://img.shields.io/badge/HTML-E34C26.svg?&style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)![Discord.py](https://img.shields.io/badge/Discord.py-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL_Studio-F4931A.svg?&style=for-the-badge&logo=image-line&logoColor=white)![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white)![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white)![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D4.svg?&style=for-the-badge&logo=windows11&logoColor=white)
-# Contact
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Seosung-Dev)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KEkdFhEpBX)[![Email](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@hoshi.kr)](contact@hoshi.kr)
-# Status
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seosungdev)](https://solved.ac/seosungdev/)  
+
+# 🛠 Skills
+
+### 🌐 Languages
+
+
+![Python](https://img.shields.io/badge/Python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+
+
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+![HTML](https://img.shields.io/badge/HTML-E34C26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+### ⚙️ Frameworks & Libraries
+
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
+
+
+
+### 🎨 Design & Creative
+
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
+
+
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+
+
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+
+
+![FL Studio](https://img.shields.io/badge/FL_Studio-F4931A.svg?&style=for-the-badge&logo=image-line&logoColor=white)
+
+
+
+### 🖥 Environment & Tools
+
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+
+
+![Windows](https://img.shields.io/badge/Windows-0078D4.svg?&style=for-the-badge&logo=windows11&logoColor=white)
+
+
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white)
+
+
+
+# 📊 Status
+[
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seosungdev)
+
+](https://solved.ac/seosungdev/)  
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seosung-Dev&layout=compact)
+
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seosung-Dev&show_icons=true&count_private=true&include_all_commits=true)
+
+
+
+# 📬 Contact
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+](https://github.com/Seosung-Dev)[
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+](https://discord.gg/KEkdFhEpBX)[
+
+![Email](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@hoshi.kr)
+
+](contact@hoshi.kr)
