@@ -1,4 +1,5 @@
 ## 소성(小星)으로서 더 크고 더 빛날 수 있도록
+-# 소성, Seosung(Dev), あかつきのほし라는 이름들을 사용하고 있으며, 모두 동일인물임을 명시합니다.
 # 🛠 Skills
 ### 🌐 Languages
 ![Python](https://img.shields.io/badge/Python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)![HTML](https://img.shields.io/badge/HTML-E34C26.svg?&style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
